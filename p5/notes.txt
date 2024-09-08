@@ -1,5 +1,0 @@
-prvy argument je vzdicky pool
-potom 0-* indexov
-altcodes a quiz maju vzdicky tvar [x=y]
-
-treba zacat s pozicnymi a pripadne pokracovat s definicnymi, neda sa zacat s defincnimy a pokracovat pozicknymi
